@@ -1,0 +1,2 @@
+# Manirock
+Python assignment
